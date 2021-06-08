@@ -1,0 +1,5 @@
+package in.co.rays.project3.model;
+
+public class StudentModelJDBCImpl {
+
+}

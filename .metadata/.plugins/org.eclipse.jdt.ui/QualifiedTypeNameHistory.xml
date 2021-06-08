@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="in.co.rays.project3.model.CourseModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.model.CourseModelJDBCImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.dto.CourseDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.dto.FacultyDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.dto.SubjectDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.model.TimeTableModelJDBCImpl"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.dto.TimeTableDTO"/>
+<fullyQualifiedTypeName name="in.co.rays.project3.exception.ApplicationException"/>
+</qualifiedTypeNameHistroy>
